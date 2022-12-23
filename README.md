@@ -1,4 +1,24 @@
-# todo-manager
-Grid/card styled todo list using Vuex for state management.
+# todo-list
 
-Based on Brad Traversy Vuex todo-list, I went through this exercise to start familiarising myself with Vuex and state management as a whole. 
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
